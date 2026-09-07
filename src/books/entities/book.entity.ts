@@ -3,4 +3,4 @@ export class Book {
  judul: string;
  penulis: string;
  tahun: number;
-}
+} 
