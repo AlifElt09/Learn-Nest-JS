@@ -1,0 +1,5 @@
+$kind: http-request
+name: Delete/book
+url: ""
+method: DELETE
+order: 5000

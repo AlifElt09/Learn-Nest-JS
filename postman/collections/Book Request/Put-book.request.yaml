@@ -1,0 +1,5 @@
+$kind: http-request
+name: Put/book
+url: ""
+method: PUT
+order: 4000
