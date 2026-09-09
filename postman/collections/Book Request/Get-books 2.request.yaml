@@ -1,5 +1,5 @@
 $kind: http-request
 name: Get/books 2
-url: ""
+url: http://localhost:3000/books/4
 method: GET
 order: 1861
